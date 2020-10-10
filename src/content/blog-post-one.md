@@ -1,5 +1,5 @@
 ---
-title: Etiam congue orci vel
+title: membuat postingan pertama dengan jam stuck
 description: Pellentesque euismod dapibus ligula, ac tempor quam dapibus a. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 date: 2019-08-26
 path: /etiam-congue-orci-vel
